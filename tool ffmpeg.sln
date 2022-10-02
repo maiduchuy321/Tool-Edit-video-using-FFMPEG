@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tool ffmpeg", "tool ffmpeg\tool ffmpeg.csproj", "{BF11BC58-D920-4547-9047-94BC68A3FBD2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tool ffmpeg ver 1.0", "Tool ffmpeg ver 1.0\Tool ffmpeg ver 1.0.vdproj", "{AC8409A3-6D2C-4DD5-BF4C-AF14A1BDBFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF11BC58-D920-4547-9047-94BC68A3FBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF11BC58-D920-4547-9047-94BC68A3FBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF11BC58-D920-4547-9047-94BC68A3FBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF11BC58-D920-4547-9047-94BC68A3FBD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8409A3-6D2C-4DD5-BF4C-AF14A1BDBFFD}.Debug|Any CPU.ActiveCfg = Debug
+		{AC8409A3-6D2C-4DD5-BF4C-AF14A1BDBFFD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF7F6603-5354-4409-92CE-5B1A8AC67754}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,103 @@
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\tool ffmpeg.exe.config
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\tool ffmpeg.exe
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\tool ffmpeg.pdb
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Dialogs.v19.2.Core.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraDialogs.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraDialogs.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.Dialogs.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool ffmpeg.csproj.AssemblyReference.cache
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool_ffmpeg.Form1.resources
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool_ffmpeg.Properties.Resources.resources
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool ffmpeg.csproj.GenerateResource.cache
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool ffmpeg.csproj.CoreCompileInputs.cache
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool ffmpeg.csproj.CopyComplete
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool ffmpeg.exe
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool ffmpeg.pdb
+E:\Hoc\tool ffmpeg\tool ffmpeg\bin\Debug\MediaToolkit.dll
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool ffmpeg.exe.licenses
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool_ffmpeg.frmMain.resources
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool_ffmpeg.DownloadVideo.resources
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool_ffmpeg.frmConvertFile.resources
+E:\Hoc\tool ffmpeg\tool ffmpeg\obj\Debug\tool_ffmpeg.frmSplitVideo.resources
